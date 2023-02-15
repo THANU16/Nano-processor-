@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<wave_config>
+   <wave_state>
+   </wave_state>
+   <db_ref_list>
+      <db_ref path="TB_Disply_R7_behav.wdb" id="1">
+         <top_modules>
+            <top_module name="TB_Disply_R7" />
+         </top_modules>
+      </db_ref>
+   </db_ref_list>
+   <zoom_setting>
+      <ZoomStartTime time="0fs"></ZoomStartTime>
+      <ZoomEndTime time="658168084fs"></ZoomEndTime>
+      <Cursor1Time time="582000000fs"></Cursor1Time>
+   </zoom_setting>
+   <column_width_setting>
+      <NameColumnWidth column_width="97"></NameColumnWidth>
+      <ValueColumnWidth column_width="58"></ValueColumnWidth>
+   </column_width_setting>
+   <WVObjectSize size="18" />
+   <wvobject fp_name="/TB_Disply_R7/Clk" type="logic">
+      <obj_property name="ElementShortName">Clk</obj_property>
+      <obj_property name="ObjectShortName">Clk</obj_property>
+   </wvobject>
+   <wvobject fp_name="/TB_Disply_R7/Reset" type="logic">
+      <obj_property name="ElementShortName">Reset</obj_property>
+      <obj_property name="ObjectShortName">Reset</obj_property>
+   </wvobject>
+   <wvobject fp_name="/TB_Disply_R7/Anode" type="array">
+      <obj_property name="ElementShortName">Anode[3:0]</obj_property>
+      <obj_property name="ObjectShortName">Anode[3:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/TB_Disply_R7/R7_out" type="array">
+      <obj_property name="ElementShortName">R7_out[3:0]</obj_property>
+      <obj_property name="ObjectShortName">R7_out[3:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/TB_Disply_R7/R7_7Seg" type="array">
+      <obj_property name="ElementShortName">R7_7Seg[6:0]</obj_property>
+      <obj_property name="ObjectShortName">R7_7Seg[6:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/TB_Disply_R7/Zero" type="logic">
+      <obj_property name="ElementShortName">Zero</obj_property>
+      <obj_property name="ObjectShortName">Zero</obj_property>
+   </wvobject>
+   <wvobject fp_name="/TB_Disply_R7/Overflow" type="logic">
+      <obj_property name="ElementShortName">Overflow</obj_property>
+      <obj_property name="ObjectShortName">Overflow</obj_property>
+   </wvobject>
+   <wvobject fp_name="/TB_Disply_R7/UUT/NanoProcessor_0/Q" type="array">
+      <obj_property name="ElementShortName">Q[2:0]</obj_property>
+      <obj_property name="ObjectShortName">Q[2:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/TB_Disply_R7/UUT/NanoProcessor_0/R2_out" type="array">
+      <obj_property name="ElementShortName">R2_out[3:0]</obj_property>
+      <obj_property name="ObjectShortName">R2_out[3:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/TB_Disply_R7/UUT/NanoProcessor_0/R3_out" type="array">
+      <obj_property name="ElementShortName">R3_out[3:0]</obj_property>
+      <obj_property name="ObjectShortName">R3_out[3:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/TB_Disply_R7/UUT/NanoProcessor_0/R5_out" type="array">
+      <obj_property name="ElementShortName">R5_out[3:0]</obj_property>
+      <obj_property name="ObjectShortName">R5_out[3:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/TB_Disply_R7/UUT/NanoProcessor_0/R7_out" type="array">
+      <obj_property name="ElementShortName">R7_out[3:0]</obj_property>
+      <obj_property name="ObjectShortName">R7_out[3:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/TB_Disply_R7/UUT/NanoProcessor_0/Q" type="array">
+      <obj_property name="ElementShortName">Q[2:0]</obj_property>
+      <obj_property name="ObjectShortName">Q[2:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/TB_Disply_R7/UUT/NanoProcessor_0/Clk_PC_Reg" type="logic">
+      <obj_property name="ElementShortName">Clk_PC_Reg</obj_property>
+      <obj_property name="ObjectShortName">Clk_PC_Reg</obj_property>
+   </wvobject>
+   <wvobject fp_name="/TB_Disply_R7/UUT/NanoProcessor_0/Clk_Ins_decoder" type="logic">
+      <obj_property name="ElementShortName">Clk_Ins_decoder</obj_property>
+      <obj_property name="ObjectShortName">Clk_Ins_decoder</obj_property>
+   </wvobject>
+   <wvobject fp_name="/TB_Disply_R7/UUT/NanoProcessor_0/S_D" type="array">
+      <obj_property name="ElementShortName">S_D[3:0]</obj_property>
+      <obj_property name="ObjectShortName">S_D[3:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/TB_Disply_R7/UUT/NanoProcessor_0/Add_Enable" type="logic">
+      <obj_property name="ElementShortName">Add_Enable</obj_property>
+      <obj_property name="ObjectShortName">Add_Enable</obj_property>
+   </wvobject>
+   <wvobject fp_name="/TB_Disply_R7/UUT/NanoProcessor_0/RegisterBank_0/Selector" type="array">
+      <obj_property name="ElementShortName">Selector[2:0]</obj_property>
+      <obj_property name="ObjectShortName">Selector[2:0]</obj_property>
+   </wvobject>
+</wave_config>
